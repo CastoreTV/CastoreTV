@@ -1,7 +1,7 @@
 - 👋 Hey, je suis @CastoreTV
 - 👀 je suis intéressé par le code 
 - 🌱 je suis en train d'apprendre le code
-- 💞️ I’m looking to collaborate on ...
+- ✨ créateur de mon entreprise
 - 📫 je suis en cherche de compagnie 
 
 <!---
